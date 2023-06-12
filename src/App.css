@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.img-css {
+  border-radius: 50%;
+  border-color: black;
+  border-style: solid;
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  background-color: #bffff9;
+}
+
